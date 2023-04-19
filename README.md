@@ -2,6 +2,6 @@
 
 Some text
 
-## Another development
+## More changes
 
-1. Open it on index.html
+1. Open this change on your index.html file
