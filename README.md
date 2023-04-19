@@ -2,6 +2,6 @@
 
 Some text
 
-## Local Development
+## More changes
 
-1. Open index.html in your browser
+1. Open this change on your index.html file
